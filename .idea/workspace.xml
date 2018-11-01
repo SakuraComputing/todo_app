@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad1d113f-c4d2-4718-949a-52b0911b6e28" name="Default" comment="" />
+    <list default="true" id="ad1d113f-c4d2-4718-949a-52b0911b6e28" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +74,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+              <first_editor relative-caret-position="330">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -150,12 +152,14 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
+    <option name="x" value="98" />
     <option name="y" value="140" />
     <option name="width" value="1098" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -280,16 +284,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532022022517</updated>
-      <workItem from="1532022023896" duration="5567000" />
+      <workItem from="1532022023896" duration="6057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5567000" />
+    <option name="totallyTimeSpent" value="6057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="140" width="1098" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="98" y="140" width="1098" height="1000" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -401,8 +404,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+          <first_editor relative-caret-position="330">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
